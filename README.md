@@ -1,5 +1,5 @@
 -  👋 Hola, soy @Dynah1970
--   Mi nombre DINAH GOMEZ
+-  👋 Mi nombre DINAH GOMEZ
 Soy una entusiasta del desarrollo web en mis primeros pasos, con una sólida base en Administración de Empresas. Actualmente, estoy aprendiendo y experimentando con HTML, CSS, y JavaScript, con un enfoque en el diseño centrado en el usuario.
 
 - 👀 Me interesa el desarrollo web, la programación y la tecnología.
